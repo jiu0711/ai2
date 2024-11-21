@@ -55,7 +55,7 @@ def display_right_content(labels):
     # 3rd Row - Text based on labels
     for i, label in enumerate(labels[:3]):
         with cols[i]:
-            st.write(f"{label} 떡볶이 김말이 매운어묵")
+            st.write(f"{label} 관련 레시피")
 
 # 모델 로드
 st.write("모델을 로드 중입니다. 잠시만 기다려주세요...")
