@@ -88,9 +88,9 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "김말이",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "Label 1 김말이",
+            "Label 1 떡볶이",
+            "Label 1 매운 어묵"
         ]
     },
     labels[1]: {
